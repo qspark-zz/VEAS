@@ -1,0 +1,4 @@
+alsa-utils
+pulseaudio
+ConsoleKit2
+pavucontrol
