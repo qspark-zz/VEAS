@@ -4,11 +4,3 @@ arandr
 i3
 i3status
 dmenu
-nano
-neofetch
-keepassxc
-zip
-unzip
-wpa_gui
-leafpad
-firefox

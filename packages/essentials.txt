@@ -1,0 +1,8 @@
+nano
+neofetch
+keepassxc
+zip
+unzip
+wpa_gui
+leafpad
+firefox

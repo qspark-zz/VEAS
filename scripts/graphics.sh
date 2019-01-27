@@ -1,4 +1,4 @@
-cat ../packages/packages.txt | xargs sudo xbps-install -Sy
+cat ../packages/graphics.txt | xargs sudo xbps-install -Sy
 
 cp ../config/Xresources ~/.Xresources
 cp ../config/bash_profile ~/.bash_profile
