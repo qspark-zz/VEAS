@@ -1,4 +1,7 @@
-# AVES : Automated Void-linux Environment Setup
+# VEAS : Void-linux Environment Automation Script
+
+This repo contains a series of packages and configurations I use on my minimal void linux machine. After installing, you can use the shell script to automate the setup process. Keep in mind that this is not a final setup and will keep changing.
+
 
 ### Description:
 
