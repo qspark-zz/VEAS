@@ -1,0 +1,6 @@
+fcitx-devel
+fcitx-hangul
+libhangul
+noto-fonts-ttf
+noto-fonts-ttf-extra
+

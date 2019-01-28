@@ -1,2 +1,2 @@
-cat ../packages/essentials.txt | xarg sudo xbps-install -Sy
+cat ../packages/essentials.txt | xarg sudo -s xbps-install -Sy
 

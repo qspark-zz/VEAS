@@ -163,3 +163,6 @@ bar {
 	}
 
 }
+
+# exec fcitx
+exec xsetroot -solid '#2c3e50'
