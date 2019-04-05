@@ -1,3 +1,4 @@
 base-devel
 cmake
+make
 python-virtualenv
