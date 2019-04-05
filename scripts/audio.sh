@@ -1,4 +1,4 @@
-cat ../packages/audio.txt | xargs sudo -s xbps-install -Sy
+cat packages/audio.txt | xargs sudo -s xbps-install -Sy
 
 sudo ln -s /etc/sv/alsa/ /var/service/
 sudo ln -s /etc/sv/cgmanager/ /var/service/
